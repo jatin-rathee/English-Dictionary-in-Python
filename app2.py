@@ -31,5 +31,4 @@ if type(output) == 'list':
 else:
     print(output)
 
-#Dictionary
 #python
